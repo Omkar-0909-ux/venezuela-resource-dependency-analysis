@@ -21,5 +21,9 @@ To analyze how Venezuela’s economic growth has been influenced by its dependen
 ## Visualization
 An interactive Tableau dashboard was created to compare GDP trends with oil dependency metrics.
 
+## Tableau Dashboard
+🔗 Interactive Dashboard: https://public.tableau.com/app/profile/omkar.mamidwar2383/viz/VenezuelaResourceDependencyandEconomicVolatility19602023/Sheet1?publish=yes
+
+
 ## Conclusion
 This project demonstrates how resource dependency can amplify economic volatility and highlights the importance of economic diversification.
