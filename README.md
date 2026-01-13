@@ -1,6 +1,3 @@
-# venezuela-resource-dependency-analysis
-Analysis of Venezuela’s economic dependence on oil using Python and Tableau
-
 # Venezuela: Resource Dependency and Economic Volatility (1960–2023)
 
 ## Objective
